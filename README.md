@@ -9,3 +9,4 @@
 * Recuperar informações do usuário no GIt
 * Cadastrar usuario no SQLite
 * Consulta simplificada ao SQLite
+* Utilizando socket.io 
